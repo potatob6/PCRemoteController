@@ -1,8 +1,0 @@
-D:\Tous\ClassLib\obj\Debug\netstandard2.0\ClassLib.csprojAssemblyReference.cache
-D:\Tous\ClassLib\obj\Debug\netstandard2.0\ClassLib.AssemblyInfoInputs.cache
-D:\Tous\ClassLib\obj\Debug\netstandard2.0\ClassLib.AssemblyInfo.cs
-D:\Tous\ClassLib\bin\Debug\netstandard2.0\ClassLib.deps.json
-D:\Tous\ClassLib\bin\Debug\netstandard2.0\ClassLib.dll
-D:\Tous\ClassLib\bin\Debug\netstandard2.0\ClassLib.pdb
-D:\Tous\ClassLib\obj\Debug\netstandard2.0\ClassLib.dll
-D:\Tous\ClassLib\obj\Debug\netstandard2.0\ClassLib.pdb
