@@ -4,7 +4,7 @@
 + scp下载文件
 + clients 查看所有客户端
 + scrshot 截图
-+ listen监听
++ listen查看按下的按键
 + runcmd 执行命令
 + cam 调用摄像头
 + key 模拟按键  
@@ -24,7 +24,7 @@ _注意:服务端需要开启4419 4418 4417 4416端口供数据传输_
 >用法:```clients```查看所有连接的客户端
 ### scrshot截图
 >用法:```1?scrshot```截图并且传输到android客户端
-### listen监听
+### listen查看按下的按键
 >用法:```1?listen?csgo.exe```监听xxx.exe程序是否*开启*或*关闭*
 ### runcmd运行命令
 >用法:```1?runcmd?cd ../..&dir```运行客户端上的cmd命令
